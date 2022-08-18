@@ -14,9 +14,30 @@
 
 .controls {
     margin-top: 20px;
+    position: fixed;
+    bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
 }
 
 .button {
     margin-left: 12px;
     cursor: pointer;
+}
+
+.BoardCont{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    overflow: scroll;
+
+}
+select {
+    margin-left: 10px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
