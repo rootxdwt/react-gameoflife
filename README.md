@@ -9,3 +9,6 @@ Simply run `npm install` then `npm start`. A webpage will show in the browser.
 Click the board to setup the initial state, or use Random button to randomize the board.
 Then click "Run" button to see the iterations.
 
+## added functionality
+- lexicons
+- adding/removing/clearing multiple dots.
